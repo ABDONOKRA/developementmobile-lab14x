@@ -44,7 +44,7 @@ Ce projet est un laboratoire pratique sur la mise en œuvre de diverses méthode
 
 ## 📺 Démonstration Vidéo
 > **Note :** Si vous consultez ce projet sur GitHub, vous pouvez visionner la démonstration de l'application ici :
-> [**Cliquez ici pour voir la vidéo de démonstration**](media/demo_lab.mp4)
+> [**Cliquez ici pour voir la vidéo de démonstration**]([media/demo_lab.mp4](https://github.com/ABDONOKRA/developementmobile-lab14x/issues/1))
 
 *(Si la vidéo ne s'ouvre pas directement, elle se trouve dans le dossier `/media` du dépôt)*.
 
