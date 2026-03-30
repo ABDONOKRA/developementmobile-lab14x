@@ -27,8 +27,8 @@ Packages recommandés :
 
 `com.example.securestoragejava.prefs  `
 
-`com.example.securestoragejava.files  
-`
+`com.example.securestoragejava.files  `
+
 `com.example.securestoragejava.cache  `
 
 `com.example.securestoragejava.external  `
